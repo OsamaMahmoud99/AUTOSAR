@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectConfig xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/SAAT.ConfigHandler">
+  <ArxmlFilePath z:Id="2">G:\OSAMAA\Embedded System\11-Automotive\AUTOSAR_Sprints\SAAT_V1.0.2\ClientServer_Task3\SenderReceiver_Task2.arxml</ArxmlFilePath>
+  <FilePath z:Id="3">G:\OSAMAA\Embedded System\11-Automotive\AUTOSAR_Sprints\SAAT_V1.0.2\ClientServer_Task3\SenderReceiver_Task2.xml</FilePath>
+  <ProjectName z:Id="4">SenderReceiver_Task2</ProjectName>
+  <TopCompositionName z:Id="5">SenderReceiver_Task2Composition</TopCompositionName>
+</ProjectConfig>
