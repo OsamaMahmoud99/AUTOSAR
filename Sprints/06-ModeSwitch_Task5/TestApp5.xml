@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectConfig xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/SAAT.ConfigHandler">
+  <ArxmlFilePath z:Id="2">D:\SAAT\SAAT_V1.0.2\Task4_Part2\TestApp5.arxml</ArxmlFilePath>
+  <FilePath z:Id="3">D:\SAAT\SAAT_V1.0.2\Task4_Part2\TestApp5.xml</FilePath>
+  <ProjectName z:Id="4">TestApp5</ProjectName>
+  <TopCompositionName z:Id="5">TestApp5Composition</TopCompositionName>
+</ProjectConfig>
