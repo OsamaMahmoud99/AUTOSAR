@@ -1,0 +1,4 @@
+build/./AUTOSAR_implementation/MCAL/DIO.c.o: \
+ AUTOSAR_implementation/MCAL/DIO.c AUTOSAR_implementation/MCAL/DIO.h
+
+AUTOSAR_implementation/MCAL/DIO.h:

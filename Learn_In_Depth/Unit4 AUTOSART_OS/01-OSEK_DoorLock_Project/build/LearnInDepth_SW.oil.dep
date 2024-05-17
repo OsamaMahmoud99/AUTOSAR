@@ -1,0 +1,11 @@
+LearnInDepth_SW.oil: \
+ /G/OSAMAA/Embedded System/Learn In Depth/AUTOSAR IN DEPTH/Unit4  AUTOSAR OS/AUTOSAR_IN_Depth-main/goil/templates/config/config.oil \
+ /G/OSAMAA/Embedded System/Learn In Depth/AUTOSAR IN DEPTH/Unit4  AUTOSAR OS/AUTOSAR_IN_Depth-main/goil/templates/config/kernel.oil \
+ /G/OSAMAA/Embedded System/Learn In Depth/AUTOSAR IN DEPTH/Unit4  AUTOSAR OS/AUTOSAR_IN_Depth-main/goil/templates/config/api.oil \
+ /G/OSAMAA/Embedded System/Learn In Depth/AUTOSAR IN DEPTH/Unit4  AUTOSAR OS/AUTOSAR_IN_Depth-main/goil/templates/config/api_ioc.oil \
+ /G/OSAMAA/Embedded System/Learn In Depth/AUTOSAR IN DEPTH/Unit4  AUTOSAR OS/AUTOSAR_IN_Depth-main/goil/templates/config/cortex-m/config.oil \
+ /G/OSAMAA/Embedded System/Learn In Depth/AUTOSAR IN DEPTH/Unit4  AUTOSAR OS/AUTOSAR_IN_Depth-main/goil/templates/config/cortex-m/armv7em/config.oil \
+ /G/OSAMAA/Embedded System/Learn In Depth/AUTOSAR IN DEPTH/Unit4  AUTOSAR OS/AUTOSAR_IN_Depth-main/goil/templates/config/cortex-m/armv7em/buildOptions.oil \
+ /G/OSAMAA/Embedded System/Learn In Depth/AUTOSAR IN DEPTH/Unit4  AUTOSAR OS/AUTOSAR_IN_Depth-main/goil/templates/config/cortex-m/armv7em/stm32f407/config.oil \
+ /G/OSAMAA/Embedded System/Learn In Depth/AUTOSAR IN DEPTH/Unit4  AUTOSAR OS/AUTOSAR_IN_Depth-main/goil/templates/config/cortex-m/armv7em/stm32f407/stm32f4discovery/config.oil \
+ /G/OSAMAA/Embedded System/Learn In Depth/AUTOSAR IN DEPTH/Unit4  AUTOSAR OS/AUTOSAR_IN_Depth-main/goil/templates/config/config2.5.oil

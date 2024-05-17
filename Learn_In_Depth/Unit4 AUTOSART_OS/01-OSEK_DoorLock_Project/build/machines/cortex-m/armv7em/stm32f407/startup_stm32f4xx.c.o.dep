@@ -1,0 +1,74 @@
+build/machines/cortex-m/armv7em/stm32f407/startup_stm32f4xx.c.o: \
+ ../../../machines/cortex-m/armv7em/stm32f407/startup_stm32f4xx.c \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\types.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\_ansi.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\newlib.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\_newlib_version.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\config.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\ieeefp.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\features.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\cdefs.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\_default_types.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\lib\gcc\arm-none-eabi\7.2.1\include\stddef.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\_types.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_types.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\lock.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_stdint.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\endian.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\_endian.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\select.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_sigset.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_timeval.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\timespec.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_timespec.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_pthreadtypes.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\sched.h \
+ g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\types.h
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\types.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\_ansi.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\newlib.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\_newlib_version.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\config.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\ieeefp.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\features.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\cdefs.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\_default_types.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\lib\gcc\arm-none-eabi\7.2.1\include\stddef.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\_types.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_types.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\lock.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_stdint.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\endian.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\_endian.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\select.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_sigset.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_timeval.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\timespec.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_timespec.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\_pthreadtypes.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\sys\sched.h:
+
+g:\osamaa\embedded\ system\learn\ in\ depth\autosar\ in\ depth\unit4\ \ autosar\ os\arm_toolchain\arm\arm-none-eabi\include\machine\types.h:
