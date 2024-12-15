@@ -1,0 +1,11 @@
+.\build_files\osekinto_taskmanagementprogrammingexercisestarter.o: OsekInto_TaskManagementProgrammingExerciseStarter.c
+.\build_files\osekinto_taskmanagementprogrammingexercisestarter.o: ..\..\OsekLib\os.h
+.\build_files\osekinto_taskmanagementprogrammingexercisestarter.o: ..\..\oil\OsCfg.h
+.\build_files\osekinto_taskmanagementprogrammingexercisestarter.o: ..\..\OsekLib\OsTypes.h
+.\build_files\osekinto_taskmanagementprogrammingexercisestarter.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\build_files\osekinto_taskmanagementprogrammingexercisestarter.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build_files\osekinto_taskmanagementprogrammingexercisestarter.o: SWTimer.h
+.\build_files\osekinto_taskmanagementprogrammingexercisestarter.o: gpio.h
+.\build_files\osekinto_taskmanagementprogrammingexercisestarter.o: sysctl.h
+.\build_files\osekinto_taskmanagementprogrammingexercisestarter.o: hw_memmap.h
+.\build_files\osekinto_taskmanagementprogrammingexercisestarter.o: tm4c123gh6pm.h

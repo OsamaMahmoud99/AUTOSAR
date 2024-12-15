@@ -1,0 +1,50 @@
+Dependencies for Project 'OsekInto_ResourceManagementProgrammingExercise', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (..\..\oil\OsCfg.c)(0x64FD3CAD)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\oil -I ..\..\OsekLib -I ..\OsekInto_ResourceManagementProgrammingExercise-I.\RTE\_Target_1-IC:\Users\Osama\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Osama\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="532" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\build_files\oscfg.o --omf_browse .\build_files\oscfg.crf --depend .\build_files\oscfg.d)
+I (..\..\oil\OsCfg.h)(0x64FD3CAD)
+I (..\..\OsekLib\OsTypes.h)(0x5FFAC759)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5F63BFBC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63BFBC)
+F (..\..\oil\OsCfg.h)(0x64FD3CAD)()
+F (..\..\OsekLib\counter.c)(0x5FFAC759)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\oil -I ..\..\OsekLib -I ..\OsekInto_ResourceManagementProgrammingExercise-I.\RTE\_Target_1-IC:\Users\Osama\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Osama\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="532" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\build_files\counter.o --omf_browse .\build_files\counter.crf --depend .\build_files\counter.d)
+I (..\..\OsekLib\counter.h)(0x5FFAC759)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63BFBC)
+I (..\..\oil\OsCfg.h)(0x64FD3CAD)
+I (..\..\OsekLib\OsTypes.h)(0x5FFAC759)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5F63BFBC)
+F (..\..\OsekLib\counter.h)(0x5FFAC759)()
+F (..\..\OsekLib\os.h)(0x5FFAC759)()
+F (..\..\OsekLib\OsTypes.h)(0x5FFAC759)()
+F (..\..\OsekLib\startup\keilUvisoin_startup.s)(0x5FFAC759)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_Target_1-IC:\Users\Osama\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Osama\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 532" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1" --pd "_RTE_ SETA 1"--list .\keiluvisoin_startup.lst --xref -o .\build_files\keiluvisoin_startup.o --depend .\build_files\keiluvisoin_startup.d)
+F (..\..\OsekLib\hook.c)(0x5FFAC759)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\oil -I ..\..\OsekLib -I ..\OsekInto_ResourceManagementProgrammingExercise-I.\RTE\_Target_1-IC:\Users\Osama\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Osama\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="532" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\build_files\hook.o --omf_browse .\build_files\hook.crf --depend .\build_files\hook.d)
+I (..\..\OsekLib\OsTypes.h)(0x5FFAC759)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5F63BFBC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63BFBC)
+F (..\..\OsekLib\OsekLib.lib)(0x5FFAC759)()
+F (.\gpio.h)(0x5FFAC759)()
+F (.\OsekInto_ResourceManagementProgrammingExercise.c)(0x64FD3D51)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\oil -I ..\..\OsekLib -I ..\OsekInto_ResourceManagementProgrammingExercise-I.\RTE\_Target_1-IC:\Users\Osama\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Osama\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="532" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\build_files\osekinto_resourcemanagementprogrammingexercise.o --omf_browse .\build_files\osekinto_resourcemanagementprogrammingexercise.crf --depend .\build_files\osekinto_resourcemanagementprogrammingexercise.d)
+I (..\..\OsekLib\os.h)(0x5FFAC759)
+I (..\..\oil\OsCfg.h)(0x64FD3CAD)
+I (..\..\OsekLib\OsTypes.h)(0x5FFAC759)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5F63BFBC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63BFBC)
+I (SWTimer.h)(0x5FFAC759)
+I (gpio.h)(0x5FFAC759)
+I (sysctl.h)(0x5FFAC759)
+I (hw_memmap.h)(0x5FFAC759)
+I (tm4c123gh6pm.h)(0x5FFAC759)
+F (.\tm4c123gh6pm.h)(0x5FFAC759)()
+F (.\sysctl.h)(0x5FFAC759)()
+F (.\driverlib.lib)(0x5FFAC759)()
+F (.\hw_memmap.h)(0x5FFAC759)()
+F (.\OSCallbacks.c)(0x5FFAC759)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\oil -I ..\..\OsekLib -I ..\OsekInto_ResourceManagementProgrammingExercise-I.\RTE\_Target_1-IC:\Users\Osama\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Osama\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="532" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\build_files\oscallbacks.o --omf_browse .\build_files\oscallbacks.crf --depend .\build_files\oscallbacks.d)
+I (..\..\OsekLib\os.h)(0x5FFAC759)
+I (..\..\oil\OsCfg.h)(0x64FD3CAD)
+I (..\..\OsekLib\OsTypes.h)(0x5FFAC759)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5F63BFBC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63BFBC)
+I (SWTimer.h)(0x5FFAC759)
+F (.\SWTimer.c)(0x5FFAC759)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I ..\..\oil -I ..\..\OsekLib -I ..\OsekInto_ResourceManagementProgrammingExercise-I.\RTE\_Target_1-IC:\Users\Osama\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Osama\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="532" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\build_files\swtimer.o --omf_browse .\build_files\swtimer.crf --depend .\build_files\swtimer.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63BFBC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5F63BFBC)
+F (.\SWTimer.h)(0x5FFAC759)()
